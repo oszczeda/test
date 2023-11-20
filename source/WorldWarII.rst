@@ -129,4 +129,5 @@ The reasons for the conflict were related to the crisis of the democratic-libera
 
 .. figure:: anschluss.jpg
 	:align: center
+
 	Anschluss of Austria (1938)
