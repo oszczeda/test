@@ -1,2 +1,1 @@
-# Artykuł o Konstytucji 3 maja
-zrodlo: wikipedia
+# Article about World War 2
