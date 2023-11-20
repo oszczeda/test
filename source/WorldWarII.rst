@@ -98,7 +98,7 @@ Events:
 11) Attack on Westerplatte - September 1-7, 1939 
 12) Japanese attack on Pearl Harbor - December 7, 1941
 
-.. image:: /scieżka/do/pliku/hiroshima.jpg
+.. image:: hiroshima.jpg
 
 Who were:
 ---------
